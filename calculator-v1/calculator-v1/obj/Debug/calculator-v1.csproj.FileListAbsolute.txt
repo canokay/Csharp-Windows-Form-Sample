@@ -1,0 +1,10 @@
+C:\Users\CozPc\source\repos\calculator-v1\calculator-v1\obj\Debug\calculator-v1.csprojResolveAssemblyReference.cache
+C:\Users\CozPc\source\repos\calculator-v1\calculator-v1\obj\Debug\calculator_v1.Form1.resources
+C:\Users\CozPc\source\repos\calculator-v1\calculator-v1\obj\Debug\calculator_v1.Properties.Resources.resources
+C:\Users\CozPc\source\repos\calculator-v1\calculator-v1\obj\Debug\calculator-v1.csproj.GenerateResource.Cache
+C:\Users\CozPc\source\repos\calculator-v1\calculator-v1\obj\Debug\calculator-v1.csproj.CoreCompileInputs.cache
+C:\Users\CozPc\source\repos\calculator-v1\calculator-v1\bin\Debug\calculator-v1.exe.config
+C:\Users\CozPc\source\repos\calculator-v1\calculator-v1\bin\Debug\calculator-v1.exe
+C:\Users\CozPc\source\repos\calculator-v1\calculator-v1\bin\Debug\calculator-v1.pdb
+C:\Users\CozPc\source\repos\calculator-v1\calculator-v1\obj\Debug\calculator-v1.exe
+C:\Users\CozPc\source\repos\calculator-v1\calculator-v1\obj\Debug\calculator-v1.pdb
