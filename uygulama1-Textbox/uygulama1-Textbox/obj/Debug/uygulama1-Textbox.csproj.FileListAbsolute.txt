@@ -1,0 +1,10 @@
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\uygulama1-Textbox\uygulama1-Textbox\bin\Debug\uygulama1-Textbox.exe.config
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\uygulama1-Textbox\uygulama1-Textbox\bin\Debug\uygulama1-Textbox.exe
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\uygulama1-Textbox\uygulama1-Textbox\bin\Debug\uygulama1-Textbox.pdb
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\uygulama1-Textbox\uygulama1-Textbox\obj\Debug\uygulama1-Textbox.csprojResolveAssemblyReference.cache
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\uygulama1-Textbox\uygulama1-Textbox\obj\Debug\uygulama1_Textbox.Form1.resources
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\uygulama1-Textbox\uygulama1-Textbox\obj\Debug\uygulama1_Textbox.Properties.Resources.resources
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\uygulama1-Textbox\uygulama1-Textbox\obj\Debug\uygulama1-Textbox.csproj.GenerateResource.Cache
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\uygulama1-Textbox\uygulama1-Textbox\obj\Debug\uygulama1-Textbox.csproj.CoreCompileInputs.cache
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\uygulama1-Textbox\uygulama1-Textbox\obj\Debug\uygulama1-Textbox.exe
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\uygulama1-Textbox\uygulama1-Textbox\obj\Debug\uygulama1-Textbox.pdb
