@@ -1,0 +1,9 @@
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\TextBox-KeyPress-Control\TextBox-KeyPress-Control\bin\Debug\TextBox-KeyPress-Control.exe.config
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\TextBox-KeyPress-Control\TextBox-KeyPress-Control\bin\Debug\TextBox-KeyPress-Control.exe
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\TextBox-KeyPress-Control\TextBox-KeyPress-Control\bin\Debug\TextBox-KeyPress-Control.pdb
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\TextBox-KeyPress-Control\TextBox-KeyPress-Control\obj\Debug\TextBox_KeyPress_Control.Form1.resources
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\TextBox-KeyPress-Control\TextBox-KeyPress-Control\obj\Debug\TextBox_KeyPress_Control.Properties.Resources.resources
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\TextBox-KeyPress-Control\TextBox-KeyPress-Control\obj\Debug\TextBox-KeyPress-Control.csproj.GenerateResource.Cache
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\TextBox-KeyPress-Control\TextBox-KeyPress-Control\obj\Debug\TextBox-KeyPress-Control.csproj.CoreCompileInputs.cache
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\TextBox-KeyPress-Control\TextBox-KeyPress-Control\obj\Debug\TextBox-KeyPress-Control.exe
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\TextBox-KeyPress-Control\TextBox-KeyPress-Control\obj\Debug\TextBox-KeyPress-Control.pdb
