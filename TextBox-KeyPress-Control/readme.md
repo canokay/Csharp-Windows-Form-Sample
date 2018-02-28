@@ -16,7 +16,7 @@ if ((int)e.KeyChar >= 48 && (int)e.KeyChar <= 57)
             }
 ```
 
-## Sayı KeyPress
+## Yazı KeyPress
 ```
 if ((int)e.KeyChar >= 48 && (int)e.KeyChar <= 57)
             {
