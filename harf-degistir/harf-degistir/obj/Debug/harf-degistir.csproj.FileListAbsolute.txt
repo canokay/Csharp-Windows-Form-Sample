@@ -1,0 +1,10 @@
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\harf-degistir\harf-degistir\bin\Debug\harf-degistir.exe.config
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\harf-degistir\harf-degistir\bin\Debug\harf-degistir.exe
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\harf-degistir\harf-degistir\bin\Debug\harf-degistir.pdb
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\harf-degistir\harf-degistir\obj\Debug\harf-degistir.csprojResolveAssemblyReference.cache
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\harf-degistir\harf-degistir\obj\Debug\harf_degistir.Form1.resources
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\harf-degistir\harf-degistir\obj\Debug\harf_degistir.Properties.Resources.resources
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\harf-degistir\harf-degistir\obj\Debug\harf-degistir.csproj.GenerateResource.Cache
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\harf-degistir\harf-degistir\obj\Debug\harf-degistir.csproj.CoreCompileInputs.cache
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\harf-degistir\harf-degistir\obj\Debug\harf-degistir.exe
+C:\Users\CozPc\Desktop\github\Csharp-Windows-Form-Sample\harf-degistir\harf-degistir\obj\Debug\harf-degistir.pdb
