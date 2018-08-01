@@ -17,29 +17,7 @@ namespace TextBox_KeyPress_Control
             InitializeComponent();
         }
 
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            //int SAYI
-            if ((int)e.KeyChar >= 48 && (int)e.KeyChar <= 57)
-            {
-                e.Handled = false;//Eğer rakamsa  yazdır.
-            }
-            else if ((int)e.KeyChar == 8)
-            {
-                e.Handled = false;//Eğer basılan tuş backspace ise yazdır.
-            }
-            else
-            {
-                e.Handled = true;//Bunların dışındaysa hiçbirisini yazdırma
-            }
-        }
-
-        private void textBox2_KeyPress(object sender, KeyPressEventArgs e)
         {
             //string YAZI
             if ((int)e.KeyChar >= 48 && (int)e.KeyChar <= 57)
@@ -54,6 +32,25 @@ namespace TextBox_KeyPress_Control
             {
                 e.Handled = false;//Bunların dışındaysa hiçbirisini yazdır
             }
+        }
+
+        private void textBox2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            //int SAYI
+            if ((int)e.KeyChar >= 48 && (int)e.KeyChar <= 57)
+            {
+                e.Handled = false;//Eğer rakamsa  yazdır.
+            }
+            else if ((int)e.KeyChar == 8)
+            {
+                e.Handled = false;//Eğer basılan tuş backspace ise yazdır.
+            }
+            else
+            {
+                e.Handled = true;//Bunların dışındaysa hiçbirisini yazdırma
+            }
+
+
         }
     }
 }
